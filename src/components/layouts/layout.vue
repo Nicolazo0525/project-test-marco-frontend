@@ -20,7 +20,7 @@ const changeDarkMode = () => {
 <template>
     <div class="shadow bg-white z-50">
         <div class="h-16 mx-auto px-12 flex items-center justify-between">
-            <router-link :to="{name: 'IndexCursos'}"  class="text-2xl hover:text-cyan-500 transition-colors cursor-pointer">Logo</router-link>
+            <router-link :to="{name: 'IndexCursos'}" class="text-2xl hover:text-cyan-500 transition-colors cursor-pointer">Logo</router-link>
             <ul class="flex items-center gap-5 text-base font-bold">
                 <li><router-link :to="{name: 'IndexCursos'}" class="hover:text-cyan-500 transition-colors">Cursos</router-link></li>
             </ul>
