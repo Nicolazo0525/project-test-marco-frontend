@@ -77,7 +77,7 @@ onMounted(()=>{
                                         </div>
                                     </div>
                                 </td>
-                                <td class="w-2/5 px-3 py-3  text-gray-600 text-base bg-white border-b border-gray-200">
+                                <td class="w-2/5 px-3 py-3 text-center text-gray-600 text-base bg-white border-b border-gray-200">
                                     <div class="items-center">
                                         <div class=" text-gray-900 whitespace-no-wrap">
                                             {{ curso.nombre }}
