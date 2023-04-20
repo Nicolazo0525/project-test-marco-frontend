@@ -23,7 +23,7 @@ console.log(cursoId.value)
             <div class="modal-content py-4 text-left px-6">
                 <!--Title-->
                 <div class="flex justify-between items-center pb-3">
-                    <p class="text-2xl font-bold">Delete vehicule</p>
+                    <p class="text-2xl font-bold">Delete curse</p>
                     <div>
                         <button @click="$emit('close-modal')" class=" items-center rounded-r-2xl text-center flex justify-center w-6 h-6">
                                 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
@@ -34,7 +34,7 @@ console.log(cursoId.value)
                 </div>
                 <!--Body-->
                 <div class="my-5">
-                    <p>Do you want to delete this vehicle?</p>
+                    <p>Do you want to delete this curse?</p>
                 </div>
                 <!--Footer-->
                 <div class="flex justify-end pt-2 space-x-2">
