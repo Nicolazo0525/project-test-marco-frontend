@@ -1,6 +1,6 @@
 # Vue 3 + Vite App (vue-project)
 
-### Recommendations
+## Recommendations
 
 En el caso de que ocurra un error con la petición del csrf-token lo que recomiendo hacer es cambiar los puertos tanto del proyecto frontend como del proyecto backend. Este error ocurre por que los puertos están ocupados y envía esa petición a un proyecto distinto.
 
